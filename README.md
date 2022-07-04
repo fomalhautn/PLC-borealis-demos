@@ -14,6 +14,8 @@
 <p>Borealis is nanophotonic full-stack
 <a href="https://strawberryfields.ai/photonics/hardware/index.html">Xanadu's next-generation quantum hardware</a>.</p> 
 <p>Xanadu’s photonic hardware is available today via <a href="https://platform.xanadu.ai/auth/realms/platform/protocol/openid-connect/registrations?client_id=public&redirect_uri=https%3A%2F%2Fcloud.xanadu.ai%2Flogin&response_type=code">Xanadu Cloud (XC)</a>.</p>
+<p><img src='https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-022-04725-x/MediaObjects/41586_2022_4725_Fig4_HTML.png?as=webp' width=990>
+<h3>Figure: <em>Quantum computational advantage.</em></h3></p>
 </div>
 
 During my experimintation I added new plot functions in order to reveal that on average, it would take more than 9,000 years for the best available algorithms and supercomputers to produce, using exact methods, a single sample from the programmed distribution, whereas Borealis requires only 36 μs [^1]. 
